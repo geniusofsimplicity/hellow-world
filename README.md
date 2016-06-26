@@ -1,4 +1,4 @@
 # hellow-world
 Getting started.
 
-Live and learn.
+Live and learn
